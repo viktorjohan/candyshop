@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Fredoka+One|Roboto');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css");
+
+.App {
+  text-align: center;
+}
+
+*:focus {
+    outline: none;
+}
+
+body, html{
+  margin: 0;
+  padding: 0px;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  background-color: #ffddef;
+}
+
+.header{
+  background-color: #ffddef;
+  text-align: center;
+  color: #CC6F9F;
+  margin: 0;
+  font-size: 49px;
+  font-family: 'Fredoka One';
+  /*height: 190px;*/
+  margin-left: 3%;
+  margin-right: 3%;
+  font-smoothing: antialiased;
+}
+
+.header a{
+  text-decoration: none;
+  font-size: 24px;
+  margin-left: 12px;
+  margin-right: 12px;
+  color: #7F6B76;
+}
+
+.footer a{
+  text-decoration: none;
+  color: #7F6B76;
+}
+.navbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+.logoname{
+  font-family: 'Pacifico';
+  padding-bottom: 24px;
+  font-size: 69px;
+}
+
+h3{
+  margin: 0;
+}
+
+ul{
+  padding: 0;
+}
+
+.products-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  min-height: 25vh;
+}
+
+.item-container{
+  margin: 10px;
+  padding-bottom: 90px;
+}
+
+.footer li{
+  padding-bottom: 9px;
+  list-style-type: none;
+}
+
+.styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 91% 0;
+   height: 29px;
+   overflow: hidden;
+   font-size: 14px;
+   width: 140px;
+   padding-left: 10px;
+   font-family: 'Roboto';
+   background-color: #ffddef;
+   border-radius: 7px;
+   color: #7F6B76;
+   cursor: pointer;
+   appearance:none;
+}
+
+.search-select{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 19%;
+  margin-right: 18%;
+}

@@ -1,0 +1,475 @@
+{"products": [
+    {
+        "id": 1,
+        "name": "Gummy bear",
+        "description": "Marknadens bästa budget-borr. En fröjd för ögat och själen. Kan användas även vid våtrumsarbete. Två års garanti.",
+        "inStock": true,
+        "watt": 400,
+        "manufacturer": "Toshiba",
+        "imageUrl": "img/gummy-bear.svg",
+        "weightInGram": 2300,
+        "consumerPrice": 14,
+        "categories": [
+            "prisvärd", "budget"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chocolate stick",
+        "description": "Frukten av långt utvecklingsarbete har lett fram till denna formfulländade hammare. Varje hemma-snickares dröm med skaft i lagrad ek.",
+        "inStock": true,
+        "manufacturer": "Black & Decker",
+        "imageUrl": "img/chocolate.svg",
+        "weightInGram": 300,
+        "consumerPrice": 23,
+        "categories": [
+            "hantverk", "lyx", "svensktillverkad"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Jelly beans",
+        "description": "Bara det bästa är gott nog för den som ska blästra. Från Korea kommer klassens bästa apparat, med pris från årets CEBIT-mässa.",
+        "inStock": true,
+        "watt": 1200,
+        "manufacturer": "Samsung",
+        "imageUrl": "img/jelly-beans.svg",
+        "weightInGram": 6880,
+        "consumerPrice": 8,
+        "categories": [
+            "toppklass", "prima", "bäst-i-test"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Raspberry",
+        "description": "Passar väl till både nybörjaren som letar efter sin första hammare, såväl som för den mer erfarne som vill ha en gedigen brukshammare.",
+        "inStock": false,
+        "manufacturer": "Black & Decker",
+        "imageUrl": "img/candy6.svg",
+        "weightInGram": 125,
+        "consumerPrice": 10,
+        "categories": [
+            "prisvärd", "budget", "svensktillverkad"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Candy stick",
+        "description": "En dröm att hantera, enligt många. Vinkelslipen från Tyskland har tagit utlandet med storm och finns nu i Sverige. Passa på!",
+        "inStock": true,
+        "watt": 600,
+        "manufacturer": "Siemens",
+        "imageUrl": "img/candy-stick.svg",
+        "weightInGram": 8940,
+        "consumerPrice": 20,
+        "categories": [
+            "prisvärd", "kvalitet"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chocolate bomb",
+        "description": "Bälte i läder, med öljetter i mässingsimitation. 12cm striglingsyta och med fyra stora fack och tre små.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/peppermint-patty.svg",
+        "weightInGram": 773,
+        "consumerPrice": 35,
+        "categories": [
+            "prisvärd", "svensktillverkad", "hantverk"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Lollipop 'Spiral'",
+        "description": "Handtag i PVC. Blad i rostfritt kolstål. Säkerhetsklass III. En såg som matchar dina höga behov.",
+        "inStock": false,
+        "manufacturer": "Electrolux",
+        "imageUrl": "img/lollipop.svg",
+        "weightInGram": 440,
+        "consumerPrice": 17,
+        "categories": [
+            "lyx", "kvalitet"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Gummy worm",
+        "description": "Dagens bästa köp. Multimeter med alla tolv vanliga mätinställningar samt förkromade kontakter och extra lång batteritid.",
+        "inStock": true,
+        "manufacturer": "Texas instruments",
+        "imageUrl": "img/worm.svg",
+        "weightInGram": 380,
+        "consumerPrice": 22,
+        "categories": [
+            "prisvärd", "lyx", "kvalitet", "hantverk"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Lollipop 'Snus'",
+        "description": "Lättviktsdammsugare med känsla av kvalitet. Tre separata reglage styr insugskraften och dubbla turbo-aggregat ser till att det blir rent på nolltid.",
+        "inStock": true,
+        "watt": 1800,
+        "manufacturer": "Panasonic",
+        "imageUrl": "img/lollipop kopia.svg",
+        "weightInGram": 2100,
+        "consumerPrice": 27,
+        "categories": [
+            "prisvärd", "kvalitet", "bäst-i-test"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Watermelon gummy",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/watermelon.svg",
+        "weightInGram": 84,
+        "consumerPrice": 15,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Candy bomb",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy2.svg",
+        "weightInGram": 84,
+        "consumerPrice": 29,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Gummy fish",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/gummy-fish.svg",
+        "weightInGram": 84,
+        "consumerPrice": 6,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Cookie",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/cookie.svg",
+        "weightInGram": 24,
+        "consumerPrice": 7,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Bonbon",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/bonbon.svg",
+        "weightInGram": 84,
+        "consumerPrice": 11,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Strawberry",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy4.svg",
+        "weightInGram": 84,
+        "consumerPrice": 12,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lime",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/lima.svg",
+        "weightInGram": 84,
+        "consumerPrice": 13,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Gummy donut",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/gummy.svg",
+        "weightInGram": 84,
+        "consumerPrice": 9,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Mint",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/mint.svg",
+        "weightInGram": 84,
+        "consumerPrice": 14,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Candy cane",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy-cane.svg",
+        "weightInGram": 84,
+        "consumerPrice": 10,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Chocolate fudge",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/chocolate-fudge.svg",
+        "weightInGram": 84,
+        "consumerPrice": 16,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Ice-cream",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/ice-cream2.svg",
+        "weightInGram": 84,
+        "consumerPrice": 18,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Bubblegum",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/taffy.svg",
+        "weightInGram": 84,
+        "consumerPrice": 9,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Marshmallow",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/marshmallow.svg",
+        "weightInGram": 84,
+        "consumerPrice": 6,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Apple candy",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/stick.svg",
+        "weightInGram": 84,
+        "consumerPrice": 24,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Doughnut",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/doughnut.svg",
+        "weightInGram": 84,
+        "consumerPrice": 11,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Brick",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/brick.svg",
+        "weightInGram": 84,
+        "consumerPrice": 13,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Watermelon",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/watermelon2.svg",
+        "weightInGram": 84,
+        "consumerPrice": 17,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Candy buttons",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/chocolates.svg",
+        "weightInGram": 84,
+        "consumerPrice": 12,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Cotton candy",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/cotton-candy.svg",
+        "weightInGram": 84,
+        "consumerPrice": 29,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Red caramel",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy7.svg",
+        "weightInGram": 84,
+        "consumerPrice": 10,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Purple candy",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy9.svg",
+        "weightInGram": 84,
+        "consumerPrice": 9,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Lollipop",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": false,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/lollipops.svg",
+        "weightInGram": 84,
+        "consumerPrice": 11,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Caramel",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/candy10.svg",
+        "weightInGram": 84,
+        "consumerPrice": 9,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Berry",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/berry.svg",
+        "weightInGram": 84,
+        "consumerPrice": 10,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Lemon candy",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/lemon.svg",
+        "weightInGram": 84,
+        "consumerPrice": 12,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Cupcake",
+        "description": "svensktillverkad kvalitetsslip i råbarkad slipsten. Räcker till över 2000 timmars slipande.",
+        "inStock": true,
+        "manufacturer": "Hultafors",
+        "imageUrl": "img/cupcake.svg",
+        "weightInGram": 84,
+        "consumerPrice": 18,
+        "categories": [
+            "svensktillverkad", "budget"
+        ]
+    }
+]
+}
