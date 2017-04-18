@@ -1,4 +1,3 @@
-//import axios from 'axios';
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
@@ -9,7 +8,6 @@ import Brands from './Brands';
 import Careers from './Careers';
 import Products from './Products';
 import data from './candyproducts.json';
-import './animate';
 import './index.css';
 
 class Index extends Component{
